@@ -21,7 +21,7 @@ It allows users to create secure, random passwords tailored to their preferences
    <li><b>
 Generate the Password: </b>Click the "Generate Password" button. The application will create a password based on the selected preferences and display it on the screen.</li>
    <li><b>Copy the Password: </b>To copy the generated password to your clipboard, click the "Copy" button next to the password field. You can then paste the password wherever needed, like in a password manager or login field.</li>
-   <li><b:>Password Strength Indicator: </b>As you adjust the password settings, a visual indicator will appear below the slider, showing the password strength. This indicator changes color depending on how strong the password is, based on the selected character types and length.</li>
+   <li><b>Password Strength Indicator: </b>As you adjust the password settings, a visual indicator will appear below the slider, showing the password strength. This indicator changes color depending on how strong the password is, based on the selected character types and length.</li>
    <li><b>Generate a New Password: </b>If you're not satisfied with the generated password, simply modify the options and click "Generate Password" again to get a new one.</li>
    <li><b>Responsive Design: </b>The app works smoothly on all screen sizes, ensuring usability on desktop, tablet, and mobile devices.</li>
 </ul>
